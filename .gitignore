@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Ruby / Homebrew
+*.gem
+*.bundle
+*.rbc
+*.rbenv-version
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Homebrew bottles
+*.bottle.*
+*.tar.gz
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# VSCode
+.vscode/

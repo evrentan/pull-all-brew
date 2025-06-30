@@ -1,4 +1,4 @@
-# 🍺 pullall-tap
+# 🍺 pull-all-brew
 
 Homebrew Tap for the [pull-all](https://github.com/evrentan/pull-all) CLI.
 

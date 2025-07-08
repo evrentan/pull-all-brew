@@ -1,8 +1,8 @@
 class PullAll < Formula
     desc "Bash script to pull all git repos in a directory"
     homepage "https://github.com/evrentan/pull-all"
-    url "https://github.com/evrentan/pull-all/archive/refs/tags/v1.1.0.tar.gz"
-    sha256 "4b741bd25b22ab6e0b6985257fdcc45d7769cf0b6d332812c512aff86c0796d0"
+    url "https://github.com/evrentan/pull-all/archive/refs/tags/v1.2.0.tar.gz"
+    sha256 "c4417857a11eb18c694ea26dcd2c005d082bf70103621b59fd962503e1dcd21b"
     license "MIT"
   
     def install
